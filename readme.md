@@ -14,9 +14,6 @@ An ultra-compact capsule case and bit organizer designed specifically for the **
 3. **Top Cap Magnet:** 8x1 mm neodymium disc magnet (1 pc).
 4. **Glue:** A drop of cyanoacrylate (superglue) to secure the magnets.
 
-## 📂 Repository Structure
-* `/STEP` — Original CAD source file for easy editing, tolerance tuning
-
 ![1](pictures/1.jpg)
 ![2](pictures/3.jpg)
 ![3](pictures/2.jpg)
